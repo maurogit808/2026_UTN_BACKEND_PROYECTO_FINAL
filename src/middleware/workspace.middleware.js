@@ -1,6 +1,6 @@
 import ServerError from "../helpers/serverError.helper.js"
 import Workspace from "../models/workspace.model.js"
-import WorkspaceMember from "../models/workspace_Members.model.js"
+import WorkspaceMember from "../models/workspace_members.model.js"
 import workspaceRepository from "../repositories/workspace.repository.js"
 import workspaceMemberRepository from "../repositories/workspaceMember.repository.js"
 
