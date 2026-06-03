@@ -1,4 +1,4 @@
-import WorkspaceMember from "../models/workspace_Members.model.js"
+import WorkspaceMember from "../models/workspace_members.model.js"
 
 class WorkspaceMemberRepository {
 
